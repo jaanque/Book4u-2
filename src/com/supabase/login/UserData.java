@@ -1,3 +1,5 @@
+package com.supabase.login;
+
 import io.supabase.GoTrue;
 import org.json.JSONObject;
 

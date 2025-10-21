@@ -1,3 +1,5 @@
+package com.supabase.login;
+
 import io.supabase.SupabaseClient;
 
 public class Supabase {

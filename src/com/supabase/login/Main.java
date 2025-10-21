@@ -1,3 +1,5 @@
+package com.supabase.login;
+
 import java.util.Scanner;
 
 public class Main {
