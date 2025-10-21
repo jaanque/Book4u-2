@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib/supabase-java/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/supabase-kt-3.2.5.jar"/>
-	<classpathentry kind="lib" path="lib/ktor-client-core-3.3.1.jar"/>
-	<classpathentry kind="lib" path="lib/ktor-client-content-negotiation-3.3.1.jar"/>
-	<classpathentry kind="lib" path="lib/ktor-serialization-kotlinx-json-3.3.1.jar"/>
-	<classpathentry kind="lib" path="lib/kermit-2.0.8.jar"/>
-	<classpathentry kind="lib" path="lib/kotlin-stdlib-2.2.20.jar"/>
-	<classpathentry kind="lib" path="lib/kotlinx-collections-immutable-0.4.0.jar"/>
-	<classpathentry kind="lib" path="lib/kotlinx-coroutines-core-1.10.2.jar"/>
-	<classpathentry kind="lib" path="lib/kotlinx-datetime-0.7.1.jar"/>
-	<classpathentry kind="lib" path="lib/kotlinx-serialization-json-1.9.0.jar"/>
-	<classpathentry kind="lib" path="lib/ktor-client-cio-3.3.1.jar"/>
-	<classpathentry kind="lib" path="lib/bcrypt-0.10.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
